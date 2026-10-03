@@ -129,8 +129,8 @@ It provides management-level insights into revenue performance, customer behavio
 ---
 
 ## 🖼️ Visuals Preview
-![Data Model](model_relationship.png)
 [📄 View GIVA Dashboard PDF](./GIVA-Ecommerce%20Dashboard.pdf)
+![Data Model](model_relationship.png)
 
 ---
 
